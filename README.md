@@ -2,7 +2,7 @@
 Object(Face) Detection using WIDER face dataset
 
 # Still in progress 
-To Do Displaying the test images
+To Do :-Displaying the test images
 
 # [Link to dataset](http://shuoyang1213.me/WIDERFACE/)
 
