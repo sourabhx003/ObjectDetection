@@ -3,6 +3,9 @@ Object(Face) Detection using WIDER face dataset
 
 # Still in progress 
 
+# [Link to dataset](http://shuoyang1213.me/WIDERFACE/)
+
+
 Work done is 
 1.created train,test record from txt file to csv ,then csv to train,test records.
 2.training the model from the model from tensorflow zoo.
